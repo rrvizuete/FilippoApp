@@ -1,0 +1,4 @@
+streamlit
+extract_msg
+pymupdf
+openpyxl
