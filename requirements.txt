@@ -2,3 +2,4 @@ streamlit>=1.49
 extract_msg
 pymupdf
 openpyxl
+pandas
